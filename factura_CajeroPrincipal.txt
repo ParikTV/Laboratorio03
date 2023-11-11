@@ -1,0 +1,3 @@
+Factura generada por el cajero CajeroPrincipal:
+
+Total: $0
